@@ -1,0 +1,27 @@
+[
+  {
+   "question": "what year is google esatablished?",
+    "choice1": "2009",
+    "choice2": "1958",
+    "choice3": "1960",
+    "choice4": "2001",
+    "answer": 3
+  },
+  {
+    "question": "who is the world best footballer?",
+    "choice1": "Drogba",
+    "choice2": "Adele",
+    "choice3": "Pulisic",
+   "choice4": "Olamide",
+    "answer": 3
+  },
+  {
+    "question": "what is the meaning of Qudus?",
+   "choice1": "Holy",
+    "choice2": "Dirty",
+    "choice3": "Courage",
+    "choice4": "FUFU",
+    "answer": 1
+  }
+
+]
